@@ -1,0 +1,18 @@
+# Ignore IntelliJ project files
+.idea/
+*.iml
+
+# Ignore build folders
+**/target/
+**/build/
+**/out/
+
+# Ignore Node modules
+frontend/node_modules/
+
+# Logs
+*.log
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.db
